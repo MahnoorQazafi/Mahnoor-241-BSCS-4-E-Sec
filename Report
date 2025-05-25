@@ -1,0 +1,5 @@
+This C++ project helps users keep track of their daily expenses using linked lists.
+Users can add, update, delete, and view all expenses easily through a menu.
+Each expense session is stored in a master list using vectors for better management.
+The app also provides a monthly expense report for analysis.
+It is a simple and useful tool to manage personal budgeting.
